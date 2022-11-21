@@ -1,4 +1,4 @@
-# sum-tuff-puzzle
+# Sum Tuff Puzzle
 
 Found a puzzle at an AirBnB that had 16 blocks:
 ```
